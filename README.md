@@ -1,5 +1,1 @@
-# simplecalc
-# simplecalc
-# simplecalc
-# simplecalc
-# calculator
+#Calculator
